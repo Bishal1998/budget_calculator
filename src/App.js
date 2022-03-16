@@ -3,16 +3,8 @@ import { Route, Routes } from 'react-router';
 import AddNew from './components/form/AddNew';
 import './App.css';
 
-import {useState} from 'react';
 
 function App() {
-
-
-  // const [data, setData] = useState('');
-
-  // const dataToNew = (budget) => {
-  //   setData(budget)
-  // }
 
   return (
     <>

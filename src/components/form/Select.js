@@ -1,7 +1,6 @@
 import './Select.css';
 import { useEffect } from 'react';
 
-
 const Select = ({ option, setOption, income, setIncome, expense, setExpense}) => {
 
 
